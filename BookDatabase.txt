@@ -12,3 +12,4 @@
 2022-A-0007,Novel,Matahari Bumi Bulan,Kiyoshi,2022,Umi
 2024-A-0008,Novel,Mouse Live COde,Meja,2024,Martha
 2023-A-0009,Novel,Laptop Lenovo,Gramedia,2023,Martha
+2019-A-0010,Novel,adsukjnk,iukjnk,2019,uwdksaj

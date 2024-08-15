@@ -29,9 +29,9 @@ public class InventoryServiceImplementation implements InventoryService {
     public void addBook(List<String> newBookInformation){
         List<String> informationForMap = new ArrayList<>();
 
-//        for(int i = 2; i < newBookInformation.size(); i++){
-//            informationForMap.add(newBookInformation.get(i));
-//        }
+        for(int i = 2; i < newBookInformation.size(); i++){
+            informationForMap.add(newBookInformation.get(i));
+        }
 //        System.out.println(informationForMap.getClass().getName());
 //        System.out.println(newBookInformation.get(0).getClass().getName());
 

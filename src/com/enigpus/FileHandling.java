@@ -129,6 +129,7 @@ public class FileHandling {
                 back = back + newBookInformation.get(i) + ",";
             }
         }
+        System.out.println(back);
 
         String willBeAppended = front + back;
 

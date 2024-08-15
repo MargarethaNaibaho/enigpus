@@ -1,0 +1,14 @@
+2005-A-0001,Novel,Laskar Pelangi,Bentang Pustaka,2005,Andrea Hirata
+2024-A-0006,Novel,Java Programming Fundamental,Enigma Publisher,2024,Margaretha
+2015-A-0005,Novel,Ayah,Bentang Pustaka,2015,Andrea Hirata
+2024-B-0003,Magazine,Bobo - Harimau dari Berbagai Negeri,Weekly,2024
+2024-B-0002,Magazine,Bobo - Hari Untuk Gajah,Weekly,2024
+2024-B-0006,Magazine,Bobo - Aku mau tidur,Monthly,2024
+2007-A-0003,Novel,Edensor,Bentang Pustaka,2007,Andrea Hirata
+2024-B-0005,Magazine,Bobo - Seberapa Aktif dan Kreatifkah Kamu?,Monthly,2024
+2006-A-0002,Novel,Sang Pemimpi,Bentang Pustaka,2006,Andrea Hirata
+2024-B-0004,Magazine,Bobo - Perayaan Hari Anak di Dunia,Monthly,2024
+2010-A-0004,Novel,Padang Bulan,Bentang Pustaka,2010,Andrea Hirata
+2022-A-0007,Novel,Matahari Bumi Bulan,Kiyoshi,2022,Umi
+2024-A-0008,Novel,Mouse Live COde,Meja,2024,Martha
+2023-A-0009,Novel,Laptop Lenovo,Gramedia,2023,Martha

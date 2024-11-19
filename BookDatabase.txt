@@ -13,3 +13,5 @@
 2024-A-0008,Novel,Mouse Live COde,Meja,2024,Martha
 2023-A-0009,Novel,Laptop Lenovo,Gramedia,2023,Martha
 2019-A-0010,Novel,adsukjnk,iukjnk,2019,uwdksaj
+2009-A-0011,Novel,Home Sweet Loan,Gramedia Pustaka,2009,Almira Bastari
+2016-A-0012,Novel,Architecture of Love,Gramedia,2016,Ika Natassa
